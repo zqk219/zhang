@@ -1,0 +1,23 @@
+{
+"播放数组": "tracks\":&&]",
+"列表二次截取": "",
+"播放列表": "src0&&\"image\"",
+"播放标题": "caption\":\"&&\"",
+"播放链接": "\":\"/v&&.mp4[替换:_S*E>>/?ep=#_>>-#.>>-#/*/>>空]",
+"播放链接前缀": "https://ddys.tv/",
+"播放链接后缀": "",
+"分类":"电影$movie#剧集$drama",
+"分类url":"https://ddys.tv/category/{cateId}/{area}/page/{catePg}/",
+  "筛选":{
+"movie":[
+  {"key":"cateId",
+  "name":"类型",
+  "value":[
+  {"n":"欧美电影","v":"western-movie"},
+  {"n":"日韩电影","v":"asian-movie"},
+  {"n":"华语电影","v":"chinese-movie"}
+  ]
+  }
+  ]
+  }
+}
